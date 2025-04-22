@@ -1,0 +1,38 @@
+{
+  "updates": [
+    {
+      "date": "15 Nisan 2024",
+      "version": "v0.8.0",
+      "title": "Yeni Özellikler",
+      "highlights": [
+        {
+          "icon": "Star",
+          "text": "Sesli sohbet odaları eklendi"
+        },
+        {
+          "icon": "Sparkles",
+          "text": "Özel emoji desteği"
+        },
+        {
+          "icon": "Shield",
+          "text": "Gelişmiş güvenlik önlemleri"
+        }
+      ]
+    },
+    {
+      "date": "1 Nisan 2024",
+      "version": "v0.7.0",
+      "title": "Platform İyileştirmeleri",
+      "highlights": [
+        {
+          "icon": "Rocket",
+          "text": "Performans optimizasyonları"
+        },
+        {
+          "icon": "Gift",
+          "text": "Yeni tema seçenekleri"
+        }
+      ]
+    }
+  ]
+}

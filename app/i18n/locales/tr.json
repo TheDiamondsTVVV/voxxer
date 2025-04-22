@@ -1,0 +1,111 @@
+{
+  "nav": {
+    "features": "Özellikler",
+    "community": "Topluluk",
+    "pricing": "Fiyatlandırma",
+    "support": "Destek",
+    "login": "Giriş Yap",
+    "signup": "Kayıt Ol"
+  },
+  "hero": {
+    "badge": "İletişimin Geleceği",
+    "title": "Toplulukların Birlikte Geliştiği Yer",
+    "description": "Dijital iletişimin yeni evrimini deneyimleyin. Güvenli ve yenilikçi bir platformda bağlantı kurun, paylaşın ve anlamlı ilişkiler kurun.",
+    "getStarted": "Ücretsiz Başla",
+    "howItWorks": "Nasıl Çalışır?"
+  },
+  "features": {
+    "title": "Topluluğunuzu İnşa Etmek İçin İhtiyacınız Olan Her Şey",
+    "subtitle": "Modern iletişim için tasarlanmış güçlü özellikler",
+    "items": {
+      "communities": {
+        "title": "Topluluklar",
+        "description": "Güçlü moderasyon araçlarıyla topluluğunuzu oluşturun ve büyütün"
+      },
+      "messaging": {
+        "title": "Zengin Mesajlaşma",
+        "description": "Multimedya mesajları ve özel emojilerle kendinizi ifade edin"
+      },
+      "security": {
+        "title": "Güvenlik",
+        "description": "Uçtan uca şifreleme ile konuşmalarınız gizli kalır"
+      },
+      "performance": {
+        "title": "Performans",
+        "description": "Minimum gecikme ile yıldırım hızında iletişim"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Basit, Şeffaf Fiyatlandırma",
+    "subtitle": "Size en uygun planı seçin",
+    "plans": {
+      "free": {
+        "name": "Ücretsiz",
+        "price": "₺0",
+        "features": [
+          "Temel ses kanalları",
+          "Metin sohbeti",
+          "10 sunucu limiti",
+          "Temel destek"
+        ]
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "₺199.99",
+        "features": [
+          "Sınırsız ses kanalları",
+          "HD video",
+          "Özel emojiler",
+          "Öncelikli destek"
+        ]
+      },
+      "enterprise": {
+        "name": "Kurumsal",
+        "price": "Özel",
+        "features": [
+          "Özel çözümler",
+          "API erişimi",
+          "7/24 destek",
+          "SLA garantisi"
+        ]
+      }
+    },
+    "getStarted": "Hemen Başla"
+  },
+  "cta": {
+    "title": "Topluluğunuzu Dönüştürmeye Hazır mısınız?",
+    "description": "Şimdiden Voxxer'ı kullanan binlerce topluluğa katılın ve birlikte büyüyün.",
+    "button": "Hemen Başlayın"
+  },
+  "footer": {
+    "about": "Yeni nesil topluluk iletişim platformu.",
+    "product": {
+      "title": "Ürün",
+      "features": "Özellikler",
+      "pricing": "Fiyatlandırma",
+      "security": "Güvenlik",
+      "roadmap": "Yol Haritası"
+    },
+    "resources": {
+      "title": "Kaynaklar",
+      "documentation": "Dokümantasyon",
+      "api": "API",
+      "guides": "Rehberler",
+      "support": "Destek"
+    },
+    "company": {
+      "title": "Şirket",
+      "about": "Hakkımızda",
+      "blog": "Blog",
+      "careers": "Kariyer",
+      "contact": "İletişim"
+    },
+    "legal": {
+      "rights": "© 2024 Voxxer. Tüm hakları saklıdır.",
+      "privacy": "Gizlilik Politikası",
+      "terms": "Kullanım Koşulları",
+      "cookies": "Çerez Politikası"
+    }
+  }
+}

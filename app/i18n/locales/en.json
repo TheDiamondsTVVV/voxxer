@@ -1,0 +1,111 @@
+{
+  "nav": {
+    "features": "Features",
+    "community": "Community",
+    "pricing": "Pricing",
+    "support": "Support",
+    "login": "Login",
+    "signup": "Sign Up"
+  },
+  "hero": {
+    "badge": "The Future of Communication",
+    "title": "Where Communities Thrive Together",
+    "description": "Experience the next evolution of digital communication. Connect, share, and build meaningful relationships in a secure and innovative platform.",
+    "getStarted": "Get Started Free",
+    "howItWorks": "See How It Works"
+  },
+  "features": {
+    "title": "Everything You Need to Build Your Community",
+    "subtitle": "Powerful features designed for modern communication",
+    "items": {
+      "communities": {
+        "title": "Communities",
+        "description": "Build and grow your community with powerful moderation tools"
+      },
+      "messaging": {
+        "title": "Rich Messaging",
+        "description": "Express yourself with multimedia messages and custom emotes"
+      },
+      "security": {
+        "title": "Security",
+        "description": "End-to-end encryption keeps your conversations private"
+      },
+      "performance": {
+        "title": "Performance",
+        "description": "Lightning-fast communication with minimal latency"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Choose the plan that works best for you",
+    "plans": {
+      "free": {
+        "name": "Free",
+        "price": "$0",
+        "features": [
+          "Basic voice channels",
+          "Text chat",
+          "10 server limit",
+          "Basic support"
+        ]
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "$9.99",
+        "features": [
+          "Unlimited voice channels",
+          "HD video",
+          "Custom emotes",
+          "Priority support"
+        ]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "price": "Custom",
+        "features": [
+          "Custom solutions",
+          "API access",
+          "24/7 support",
+          "SLA guarantee"
+        ]
+      }
+    },
+    "getStarted": "Get Started"
+  },
+  "cta": {
+    "title": "Ready to Transform Your Community?",
+    "description": "Join thousands of communities already using Voxxer to connect and grow.",
+    "button": "Get Started Now"
+  },
+  "footer": {
+    "about": "The next generation communication platform for communities.",
+    "product": {
+      "title": "Product",
+      "features": "Features",
+      "pricing": "Pricing",
+      "security": "Security",
+      "roadmap": "Roadmap"
+    },
+    "resources": {
+      "title": "Resources",
+      "documentation": "Documentation",
+      "api": "API",
+      "guides": "Guides",
+      "support": "Support"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About",
+      "blog": "Blog",
+      "careers": "Careers",
+      "contact": "Contact"
+    },
+    "legal": {
+      "rights": "© 2024 Voxxer. All rights reserved.",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy"
+    }
+  }
+}
